@@ -1,0 +1,6 @@
+proot
+busybox
+curl
+git
+wget
+python
